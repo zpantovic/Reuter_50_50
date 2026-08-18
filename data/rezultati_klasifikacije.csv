@@ -1,0 +1,22 @@
+Skup atributa,Klasifikator,Accuracy,F1 (macro),Precision,Recall
+Puni (10000),Naive Bayes (Multinomial),67.52,66.91,69.18,67.52
+Puni (10000),Naive Bayes (Complement),63.76,62.13,64.87,63.76
+Puni (10000),SVM (LinearSVC),72.4,72.03,73.06,72.4
+Puni (10000),Logistic Regression,71.04,70.82,72.31,71.04
+Puni (10000),Random Forest,66.2,65.37,67.15,66.2
+Puni (10000),K-Nearest Neighbors,60.92,60.79,62.11,60.92
+Puni (10000),Decision Tree,45.28,45.37,47.34,45.28
+Redukovani (2000),Naive Bayes (Multinomial),65.44,64.99,66.78,65.44
+Redukovani (2000),Naive Bayes (Complement),59.2,56.83,61.82,59.2
+Redukovani (2000),SVM (LinearSVC),70.88,70.55,71.65,70.88
+Redukovani (2000),Logistic Regression,70.36,70.08,71.36,70.36
+Redukovani (2000),Random Forest,63.84,62.99,65.27,63.84
+Redukovani (2000),K-Nearest Neighbors,58.72,58.36,59.45,58.72
+Redukovani (2000),Decision Tree,43.84,44.41,47.14,43.84
+Mali (500),Naive Bayes (Multinomial),60.72,60.45,61.91,60.72
+Mali (500),Naive Bayes (Complement),51.16,47.8,56.64,51.16
+Mali (500),SVM (LinearSVC),66.28,65.63,66.43,66.28
+Mali (500),Logistic Regression,66.88,66.58,67.77,66.88
+Mali (500),Random Forest,60.0,59.04,60.85,60.0
+Mali (500),K-Nearest Neighbors,55.36,54.8,55.93,55.36
+Mali (500),Decision Tree,38.16,38.05,38.62,38.16
